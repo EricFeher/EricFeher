@@ -21,7 +21,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20Idea-282A36?style=for-the-badge&logo=intellijidea&logoColor=79DAFA) ![Webstorm](https://img.shields.io/badge/Webstorm-282A36?style=for-the-badge&logo=webstorm&logoColor=79DAFA) ![Pycharm](https://img.shields.io/badge/PyCharm-282A36?style=for-the-badge&logo=pycharm&logoColor=79DAFA)
 
 
-<h2>Languages <img width="3%" src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png"/></h2>
+<h2>Languages <img width="3%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/></h2>
 
 ![Javascript](https://img.shields.io/badge/javascript-282A36?style=for-the-badge&logo=javascript&logoColor=79DAFA) ![Java](https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=java&logoColor=79DAFA) ![Python](https://img.shields.io/badge/python-282A36?style=for-the-badge&logo=python&logoColor=79DAFA)
 
