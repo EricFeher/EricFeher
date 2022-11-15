@@ -8,7 +8,7 @@
 <img width="54%" align="right" src="https://streak-stats.demolab.com/?user=EricFeher&theme=dark&background=282A36&fire=79DAFA&ring=DD6387&currStreakLabel=DD6387&sideNums=F8F8F2"/>
 
 <img width="54%" align="right" src="https://img.shields.io/badge/Social%20Links-282A36?style=for-the-badge&logoColor=79DAFA"/>
-<img width="47%" align="right" src=""/>
+<img width="47%" align="right" src="" hidden/>
 
 <a href="https://www.linkedin.com/in/ericfeher/">
 <img width="18%" align="right" src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA"/>
