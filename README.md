@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img position="absolute" align="right" src="https://github-readme-stats.vercel.app/api?username=EricFeher&show_icons=true&theme=transparent&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=true&custom_title=Github Stats#gh-dark-mode-only" />
+<img position="absolute" align="right" src="[https://github-readme-stats.vercel.app/api?username=EricFeher&show_icons=true&theme=transparent&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=true&custom_title=Github Stats#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=EricFeher&show_icons=true&theme=transparent&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=true&custom_title=Github Stats#gh-dark-mode-only)" />
 
 <img position="absolute" align="right" src="https://github-readme-stats.vercel.app/api?username=EricFeher&show_icons=true&theme=transparent&text_color=282A36&title_color=DD6387&icon_color=79DAFA&hide_border=true&custom_title=Github Stats#gh-dark-mode-only" />
 
