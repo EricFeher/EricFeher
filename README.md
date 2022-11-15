@@ -1,4 +1,3 @@
-
 # Hello There Fellow Programmer 👋
 
 
@@ -36,4 +35,6 @@
 
 ![MySql](https://img.shields.io/badge/mysql-282A36?style=for-the-badge&logo=mysql&logoColor=79DAFA) ![PostgresSql](https://img.shields.io/badge/postgresql-282A36?style=for-the-badge&logo=postgresql&logoColor=79DAFA)
 
-<img width="100%" align="left" src="https://img.shields.io/badge/Social%20Media%20Links-282A36?style=for-the-badge&logoColor=79DAFA"/><a href="https://www.linkedin.com/in/ericfeher/"><img width="33.5%" align="right" src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA"/></a><a href="https://www.codewars.com/users/Solavid"><img width="35.45%" align="right" src="https://img.shields.io/badge/CodeWars-282A36?style=for-the-badge&logo=codewars&logoColor=79DAFA"/></a><a href="https://twitter.com/EricWhit_"><img width="31%" align="right" src="https://img.shields.io/badge/twitter-282A36?style=for-the-badge&logo=twitter&logoColor=79DAFA"/></a>
+<h2>Social Links <img width="3%" src="https://www.pngitem.com/pimgs/m/107-1073759_link-svg-missing-transparent-link-icon-png-png.png"/></h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA)](https://www.linkedin.com/in/ericfeher/) [![CodeWars](https://img.shields.io/badge/CodeWars-282A36?style=for-the-badge&logo=codewars&logoColor=79DAFA)](https://www.codewars.com/users/Solavid) [![CodeWars](https://img.shields.io/badge/twitter-282A36?style=for-the-badge&logo=twitter&logoColor=79DAFA)](https://twitter.com/EricWhit_)
