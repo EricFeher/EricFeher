@@ -36,16 +36,4 @@
 
 ![MySql](https://img.shields.io/badge/mysql-282A36?style=for-the-badge&logo=mysql&logoColor=79DAFA) ![PostgresSql](https://img.shields.io/badge/postgresql-282A36?style=for-the-badge&logo=postgresql&logoColor=79DAFA)
 
-<img width="100%" align="left" src="https://img.shields.io/badge/Social%20Media%20Links-282A36?style=for-the-badge&logoColor=79DAFA"/>
-
-<a href="https://www.linkedin.com/in/ericfeher/">
-<img width="33.5%" align="right" src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA"/>
-</a>
-
-<a href="https://www.codewars.com/users/Solavid">
-<img width="35.45%" align="right" src="https://img.shields.io/badge/CodeWars-282A36?style=for-the-badge&logo=codewars&logoColor=79DAFA"/>
-</a>
-
-<a href="https://twitter.com/EricWhit_">
-<img width="31%" align="right" src="https://img.shields.io/badge/twitter-282A36?style=for-the-badge&logo=twitter&logoColor=79DAFA"/>
-</a>
+<img width="100%" align="left" src="https://img.shields.io/badge/Social%20Media%20Links-282A36?style=for-the-badge&logoColor=79DAFA"/><a href="https://www.linkedin.com/in/ericfeher/"><img width="33.5%" align="right" src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA"/></a><a href="https://www.codewars.com/users/Solavid"><img width="35.45%" align="right" src="https://img.shields.io/badge/CodeWars-282A36?style=for-the-badge&logo=codewars&logoColor=79DAFA"/></a><a href="https://twitter.com/EricWhit_"><img width="31%" align="right" src="https://img.shields.io/badge/twitter-282A36?style=for-the-badge&logo=twitter&logoColor=79DAFA"/></a>
