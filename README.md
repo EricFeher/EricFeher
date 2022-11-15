@@ -10,7 +10,7 @@
 <img width="54%" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 
-<h2>Envitonments<img width="5%" src="https://www.debian.org/Pics/debian-logo-1024x576.png"/></h2>
+<h2>Environments<img width="5%" src="https://www.debian.org/Pics/debian-logo-1024x576.png"/></h2>
 
 <h3>Operation Systems</h3>
 
