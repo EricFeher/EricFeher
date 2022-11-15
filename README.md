@@ -5,7 +5,7 @@
 
 <img width="54%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricFeher&hide=C%23,PLSQL,EJS,HTML,ShaderLab,C%2B%2B,objective-C%2B%2B,HLSL&langs_count=4&layout=compact&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=true&custom_title=Most%20Used%20Languages&hide_title=true"/>
 
-<img width="54%" align="right" src="https://streak-stats.demolab.com/?user=EricFeher&theme=dark&background=282A36&fire=79DAFA&ring=DD6387&currStreakLabel=DD6387&sideNums=F8F8F2"/>
+<img width="54%" align="right" src="https://streak-stats.demolab.com/?user=EricFeher&theme=dark&background=282A36&hide_border=true&fire=79DAFA&ring=DD6387&currStreakLabel=DD6387&sideNums=F8F8F2"/>
 
 <img width="54%" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
@@ -35,6 +35,6 @@
 
 ![MySql](https://img.shields.io/badge/mysql-282A36?style=for-the-badge&logo=mysql&logoColor=79DAFA) ![PostgresSql](https://img.shields.io/badge/postgresql-282A36?style=for-the-badge&logo=postgresql&logoColor=79DAFA)
 
-<h2>Social Links <img width="3%" src="https://www.pngitem.com/pimgs/m/107-1073759_link-svg-missing-transparent-link-icon-png-png.png"/></h2>
+<h2>Social Links <img width="3%" src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Free-Download.png"/></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA)](https://www.linkedin.com/in/ericfeher/) [![CodeWars](https://img.shields.io/badge/CodeWars-282A36?style=for-the-badge&logo=codewars&logoColor=79DAFA)](https://www.codewars.com/users/Solavid) [![CodeWars](https://img.shields.io/badge/twitter-282A36?style=for-the-badge&logo=twitter&logoColor=79DAFA)](https://twitter.com/EricWhit_)
