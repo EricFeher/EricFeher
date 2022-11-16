@@ -14,7 +14,7 @@
 
 <h3>Operation Systems</h3>
 
-![Debian Linux](https://img.shields.io/badge/Linux%20Debain-282A36?style=for-the-badge&logo=Debian&logoColor=79DAFA) ![Windows](https://img.shields.io/badge/Windows-282A36?style=for-the-badge&logo=windows&logoColor=79DAFA)
+![Debian Linux](https://img.shields.io/badge/Linux%20Debian-282A36?style=for-the-badge&logo=Debian&logoColor=79DAFA) ![Windows](https://img.shields.io/badge/Windows-282A36?style=for-the-badge&logo=windows&logoColor=79DAFA)
 
 <h3>Development Environments</h3>
 
