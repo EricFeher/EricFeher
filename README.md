@@ -1,12 +1,5 @@
 # Hello There Fellow Programmer 👋
 
-
-<img width="54%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api?username=EricFeher&show_icons=true&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=true&custom_title=Github%20Statistics&hide_title=true"/>
-
-<img width="54%" align="right" position="absolute" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricFeher&hide=C%23,PLSQL,EJS,HTML,ShaderLab,C%2B%2B,objective-C%2B%2B,HLSL&langs_count=4&layout=compact&theme=dracula&text_color=F8F8F2&icon_color=79DAFA&title_color=DD6387&hide_border=true&custom_title=Most%20Used%20Languages&hide_title=true"/>
-
-<img width="54%" align="right" src="https://streak-stats.demolab.com/?user=EricFeher&theme=dark&background=282A36&hide_border=true&fire=79DAFA&ring=DD6387&currStreakLabel=DD6387&sideNums=F8F8F2"/>
-
 <img width="54%" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 
