@@ -11,7 +11,7 @@
 
 <h3>Development Environments</h3>
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20Idea-282A36?style=for-the-badge&logo=intellijidea&logoColor=79DAFA) ![Webstorm](https://img.shields.io/badge/Webstorm-282A36?style=for-the-badge&logo=webstorm&logoColor=79DAFA) ![Pycharm](https://img.shields.io/badge/PyCharm-282A36?style=for-the-badge&logo=pycharm&logoColor=79DAFA)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20Idea-282A36?style=for-the-badge&logo=intellijidea&logoColor=79DAFA) ![Visual Studio Code](https://img.shields.io/badge/VSCode-282A36?style=for-the-badge&logo=vscode&logoColor=79DAFA)
 
 
 <h2>Languages <img width="3%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/></h2>
