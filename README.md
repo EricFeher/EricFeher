@@ -22,6 +22,6 @@ I have been interested in programming since I first encountered it in secondary 
 
 ## My Career In Software Development
 
-I had the opportunity to start my career at a young age. As a Programming Instructor, I taught elementary school students the basics of programming. This experience not only improved my communication skills, but also reinforced my belief that I should and will stay in the IT sector, and it laid the foundation for my further studies in Computer Science.
+I had the opportunity to start my career at a young age. As a **Programming Instructor**, I taught elementary school students the basics of programming. This experience not only improved my communication skills, but also reinforced my belief that I should and will stay in the IT sector, and it laid the foundation for my further studies in Computer Science.
 
-During my academic journey, I honed my technical skills and gained a deep understanding of software architecture, algorithms, and development methodologies. Also, I got admitted to an internship as A Fullstack Software Developer, which first turned into a part-time, then a full-time job after my graduation. At Gerhardt Informatics, I am able to actively deepen my soft and hard skills, while I contribute to multiple successful projects.
+During my academic journey, I honed my technical skills and gained a deep understanding of software architecture, algorithms, and development methodologies. Also, I got admitted to an internship as a **Fullstack Software Developer**, which first turned into a part-time, then a full-time job after my graduation. At Gerhardt Informatics, I am able to actively deepen my soft and hard skills, while I contribute to multiple successful projects.
