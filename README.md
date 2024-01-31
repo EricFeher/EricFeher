@@ -1,33 +1,27 @@
-# Hello There Fellow Programmer 👋
+# Hi I'm Erik Fehér 👋🏼
 
-<img width="54%" align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+## TLDR
 
+🔥 I have 2 years of professional experience \
+💪🏼 I have graduated from University of Szeged in 2023 \
+🕶 I am deepening my knowledge in Spring and React \
+✨ Connect with me on linkedin [@ericfeher](https://www.linkedin.com/in/ericfeher/) \
+🎈 Check out my pinned repositories
 
-<h2>Environments<img width="5%" src="https://www.debian.org/Pics/debian-logo-1024x576.png"/></h2>
+## Skills
 
-<h3>Operation Systems</h3>
+🎉 Java, Kotlin, Javascript \
+🎇 Spring, React, Express.js \
+🎈 HTML, CSS, Tailwind \
+🎆 PostgresSQL, MySQL, MongoDB \
+🎊 Git, Docker, Caddy, Jenkins
 
-![Debian Linux](https://img.shields.io/badge/Linux%20Debian-282A36?style=for-the-badge&logo=Debian&logoColor=79DAFA) ![Windows](https://img.shields.io/badge/Windows-282A36?style=for-the-badge&logo=windows&logoColor=79DAFA)
+## About Me
 
-<h3>Development Environments</h3>
+I have been interested in programming since I first encountered it in secondary school. Throughout my studies, I realized that software development was not just a mere field of study for me, but a true passion.
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20Idea-282A36?style=for-the-badge&logo=intellijidea&logoColor=79DAFA) ![Visual Studio Code](https://img.shields.io/badge/VSCode-282A36?style=for-the-badge&logo=vscode&logoColor=79DAFA)
+## My Career In Software Development
 
+I had the opportunity to start my career at a young age. As a Programming Instructor, I taught elementary school students the basics of programming. This experience not only improved my communication skills, but also reinforced my belief that I should and will stay in the IT sector, and it laid the foundation for my further studies in Computer Science.
 
-<h2>Languages <img width="3%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/></h2>
-
-![Javascript](https://img.shields.io/badge/javascript-282A36?style=for-the-badge&logo=javascript&logoColor=79DAFA) ![Java](https://img.shields.io/badge/Java-282A36?style=for-the-badge&logo=java&logoColor=79DAFA) ![Python](https://img.shields.io/badge/python-282A36?style=for-the-badge&logo=python&logoColor=79DAFA)
-
-
-<h2>Backend <img width="3%" src="https://media4.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif"/></h2>
-
-![Node.js](https://img.shields.io/badge/node.js-282A36?style=for-the-badge&logo=node.js&logoColor=79DAFA) ![Spring](https://img.shields.io/badge/spring-282A36?style=for-the-badge&logo=spring&logoColor=79DAFA)
-
-
-<h2>Database <img width="4%" src="https://bmtraders.com/images/Database/Database-4.gif"/></h2>
-
-![MySql](https://img.shields.io/badge/mysql-282A36?style=for-the-badge&logo=mysql&logoColor=79DAFA) ![PostgresSql](https://img.shields.io/badge/postgresql-282A36?style=for-the-badge&logo=postgresql&logoColor=79DAFA)
-
-<h2>Social Links <img width="3%" src="https://www.pngarts.com/files/3/URL-Chain-Link-PNG-Free-Download.png"/></h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=79DAFA)](https://www.linkedin.com/in/ericfeher/) [![CodeWars](https://img.shields.io/badge/CodeWars-282A36?style=for-the-badge&logo=codewars&logoColor=79DAFA)](https://www.codewars.com/users/Solavid) [![CodeWars](https://img.shields.io/badge/twitter-282A36?style=for-the-badge&logo=twitter&logoColor=79DAFA)](https://twitter.com/EricWhit_)
+During my academic journey, I honed my technical skills and gained a deep understanding of software architecture, algorithms, and development methodologies. Also, I got admitted to an internship as A Fullstack Software Developer, which first turned into a part-time, then a full-time job after my graduation. At Gerhardt Informatics, I am able to actively deepen my soft and hard skills, while I contribute to multiple successful projects.
