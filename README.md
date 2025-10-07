@@ -2,7 +2,7 @@
 
 ## TLDR
 
-🔥 I am soon closing on 3 years of professional experience \
+🔥 I have 3 years of professional experience \
 💪🏼 I have graduated from University of Szeged in 2023 \
 🕶 I am deepening my knowledge in Spring and React \
 ✨ Connect with me on linkedin [@ericfeher](https://www.linkedin.com/in/ericfeher/) \
